@@ -9,7 +9,7 @@
 
 - 📫 Wie kann man mich erreichen **nguemnangandrew@gmail.com**
 
-- ⚡ Fun fact **ich denke, dass ich lustig bin**
+- ⚡ **ich denke, dass ich lustig bin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
