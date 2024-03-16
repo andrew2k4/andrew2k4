@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, Ich bin Andrew</h1>
 <h3 align="center">Ich mag gerne Programmierung ,besonders Webentwicklung</h3>
 
-- 🔭 Momentan lerne ich Nextjs,indem ich eine kleine App damit entwickele [learnNextjs](https://github.com/Spocky237/learnNextJs)
+- 🔭 Derzeit entwickle ich eine Webseite, auf der man mit Freunden zeichnen kann. Du musst zeichnen, und die anderen müssen herausfinden, was du zeichnest. : [drawOnline]([https://github.com/Spocky237/learnNextJs](https://github.com/Spocky237/DrawOnline)).
 
-- 👨‍💻 Ein Teil von fast alle meiner Lernprojekt ist auf Github [https://github.com/Spocky237?tab=repositories](https://github.com/Spocky237?tab=repositories)
+- 👨‍💻 Ein Teil fast all meiner Lernprojekte ist auf GitHub zu finden: [https://github.com/Spocky237?tab=repositories](https://github.com/Spocky237?tab=repositories).
 
-- 💬 ich spreche über mich **Ich benutze gerne React entweder für Web app oder für mobile app mit React Native. Ich mag gerne auch Backend und werde mich für Cloud in der kommoden Monat interessieren**
+- 💬 Über mich: Ich nutze gerne React für Webanwendungen oder für mobile Apps mit React Native. Außerdem interessiere ich mich für Backend-Entwicklung und werde mich in den kommenden Monaten mit Cloud-Technologien beschäftigen.
 
-- 📫 Wie kann man mich erreichen **nguemnangandrew@gmail.com**
+- 📫 So erreichen Sie mich: nguemnangandrew@gmail.com.
 
-- ⚡ **ich denke, dass ich lustig bin**
+- ⚡ Ich denke, dass ich lustig bin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
