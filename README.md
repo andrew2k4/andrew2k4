@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Ich bin Andrew</h1>
 <h3 align="center">Ich mag gerne Programmierung ,besonders Webentwicklung</h3>
 
-- 🔭 Derzeit entwickle ich eine Webseite, auf der man mit Freunden zeichnen kann. Du musst zeichnen, und die anderen müssen herausfinden, was du zeichnest. : [drawOnline]([https://github.com/Spocky237/learnNextJs](https://github.com/Spocky237/DrawOnline)).
+- 🔭 Derzeit entwickle ich eine Webseite, auf der man mit Freunden zeichnen kann. Du musst zeichnen, und die anderen müssen herausfinden, was du zeichnest. : [drawOnline](https://github.com/Spocky237/DrawOnline).
 
 - 👨‍💻 Ein Teil fast all meiner Lernprojekte ist auf GitHub zu finden: [https://github.com/Spocky237?tab=repositories](https://github.com/Spocky237?tab=repositories).
 
