@@ -19,7 +19,6 @@ Zu meinen praktischen Erfahrungen gehört die Entwicklung einer Zeichen- und Rat
 🌱 Ich suche nach neuen Herausforderungen!
 Ich bin immer bereit, innovative Projekte im Bereich KI und Softwareentwicklung anzugehen und mein Wissen in einem kreativen Team zu erweitern.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
