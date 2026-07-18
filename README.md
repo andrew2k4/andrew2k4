@@ -14,7 +14,7 @@ stay consistent when things fail.
 
 **Featured project**
 - [distributed-kv-store](https://github.com/andrew2k4/Distributed-Kv-Store) — a fault-tolerant key-value store in Go
-  with Raft consensus, write-ahead logging and snapshots
+  with Raft consensus, write-ahead logging and snapshots *(work in progress)*
 
 **Currently**
 - 🚀 Building a payment platform for Cameroon (B2B & B2C payments)
