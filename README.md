@@ -18,6 +18,5 @@ stay consistent when things fail.
 
 **Currently**
 - 🚀 Building a payment platform for Cameroon (B2B & B2C payments)
-- 🌱 Contributing to open source: Keycloak & etcd
 
 📫 Reach me: nguemnangandrew@gmail.com · [LinkedIn](www.linkedin.com/in/andrew-nguemnang)
