@@ -2,8 +2,7 @@
 
 Computer Science student at TU Clausthal · Software Engineer
 
-I build full-stack applications and care about how distributed systems
-stay consistent when things fail.
+I build backend systems and care about how distributed systems stay consistent when things fail.
 
 **What I work with**
 - 🔧 Backend: Go, Java (Spring Boot), C# (Blazor)
@@ -19,6 +18,6 @@ stay consistent when things fail.
   with Raft consensus, write-ahead logging and snapshots *(work in progress)*
 
 **Currently**
-- 🚀 Building a payment platform for Cameroon (B2B & B2C payments)
+- 🚀 Building a payment platform for Cameroon 
 
-📫 Reach me: nguemnangandrew@gmail.com · [LinkedIn](www.linkedin.com/in/andrew-nguemnang)
+📫 Reach me: nguemnangandrew@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrew-nguemnang)
