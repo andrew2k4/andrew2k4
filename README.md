@@ -12,9 +12,9 @@ I build backend systems and care about how distributed systems stay consistent w
 - 📊 Observability: Prometheus, Grafana, Loki
 
 **Featured project**
-- [drawguess](https://github.com/andrew2k4/Drawguess) — real-time multiplayer drawing game with WebSocket
+- [drawguess](https://github.com/andrew2k4/Drawguess): real-time multiplayer drawing game with WebSocket
   sync and a Redis Pub/Sub backend scaling across multiple instances
-- [distributed-kv-store](https://github.com/andrew2k4/Distributed-Kv-Store) — a fault-tolerant key-value store in Go
+- [distributed-kv-store](https://github.com/andrew2k4/Distributed-Kv-Store): a fault-tolerant key-value store in Go
   with Raft consensus, write-ahead logging and snapshots *(work in progress)*
 
 **Currently**
