@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-Computer Science student at TU Clausthal · Software Engineer
+Computer Science student at TU Clausthal · Software Developer
 
 I build backend systems and care about how distributed systems stay consistent when things fail.
 
