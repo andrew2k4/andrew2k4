@@ -15,7 +15,7 @@ I build backend systems and care about how distributed systems stay consistent w
 - [drawguess](https://github.com/andrew2k4/Drawguess): real time multiplayer drawing game with WebSocket
   sync and a Redis Pub/Sub backend scaling across multiple instances
 - [distributed-kv-store](https://github.com/andrew2k4/Distributed-Kv-Store): a fault-tolerant key-value store in Go
-  with Raft consensus, WAL and snapshots *(work in progress)*
+  with Raft consensus, WAL and snapshots 
 
 **Currently**
 - 🚀 Building a payment platform for Cameroon 
