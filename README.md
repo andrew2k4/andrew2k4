@@ -1,4 +1,4 @@
-### Hi, I'm Andrew 👋
+### Call me Andrew 
 
 CS student at TU Clausthal | Software Engineer 
 
