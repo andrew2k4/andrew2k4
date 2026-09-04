@@ -1,23 +1,9 @@
-# Hi, I'm Andrew 👋
+### Hi, I'm Andrew 👋
 
-Computer Science student at TU Clausthal · Software Developer
+CS student at TU Clausthal | Software Engineer at Thieme Recom (Healthcare Software)
 
-I build backend systems and care about how distributed systems stay consistent when things fail.
+I like working on backend systems, distributed systems internals, and desktop applications with complex business logic.
 
-**What I work with**
-- 🔧 Backend: Go, Java (Spring Boot), C# (Blazor)
-- 🎨 Frontend: TypeScript, Angular, React, Next.js
-- 🔐 Auth & Security: Keycloak, OAuth2/OIDC
-- 📡 Distributed systems: Raft, RabbitMQ, Redis Pub/Sub
-- 📊 Observability: Prometheus, Grafana, Loki
+I'm also an open source contributor to Keycloak (CNCF).
 
-**Featured project**
-- [drawguess](https://github.com/andrew2k4/Drawguess): real time multiplayer drawing game with WebSocket
-  sync and a Redis Pub/Sub backend scaling across multiple instances
-- [distributed-kv-store](https://github.com/andrew2k4/Distributed-Kv-Store): a fault-tolerant key-value store in Go
-  with Raft consensus, WAL and snapshots 
-
-**Currently**
-- 🚀 Building a payment platform for Cameroon 
-
-📫 Reach me: nguemnangandrew@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrew-nguemnang)
+I'm building AfaaPay (afaapay.com), a payment platform for the Cameroonian market with two products: a payment aggregator giving developers a unified API for Mobile Money, and a point-of-sale app for businesses like restaurants to accept payments directly.
