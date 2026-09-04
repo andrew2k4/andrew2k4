@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew 👋
 
-CS student at TU Clausthal | Software Engineer at Thieme Recom (Healthcare Software)
+CS student at TU Clausthal | Software Engineer 
 
 I like working on backend systems, distributed systems internals, and desktop applications with complex business logic. Lately I've been getting into AI infrastructure, exploring how distributed systems power large-scale model training and inference.
 
